@@ -1,0 +1,13 @@
+name: geoenv
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - ipykernel
+  - geopandas
+  - rasterio
+  - rasterstats
+  - xarray
+  - rioxarray
+  - dask
+prefix: C:\Users\mmtb\miniconda3\envs\geoenv
