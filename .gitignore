@@ -1,0 +1,17 @@
+﻿# IDE & Local Editor Settings
+.vscode/
+.idea/
+
+# Python & Environment Artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# GIS & OS Lock Files
+*.sr.lock
+*.SpatialHost*
+*.gdb/
+.DS_Store
+Thumbs.db
