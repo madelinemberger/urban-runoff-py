@@ -27,6 +27,8 @@ The pipeline has been NOT been fully refactored to rely exclusively on open-sour
 ├── outputs/                                    # Processed outputs and summary tables (for Step 4)
 │
 └── archive/                                    # Legacy and experimental scripts
+│
+└── int/                                    # intermediate products from Script 2
 
 ```
 
