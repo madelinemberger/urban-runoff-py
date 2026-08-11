@@ -1,6 +1,6 @@
-# Urban Runoff
+# Step 3: Create Coastal Impact Raster
 
-This repository contains notes, code, inputs and QAQC records for the creation of the Urban Runoff driver layer.
+This repository contains notes, code, inputs and QAQC records for the final step in creating the Urban Runoff driver layer.
 
 - Model process and notes documented in `urban_runoff_model_FINAL.Rmd`. Within the code blocks, R scripts are called to execute specific steps in the model.
 - `R` folder contains the standalone scripts executed in the markdown
