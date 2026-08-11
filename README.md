@@ -53,6 +53,13 @@ Environment: geoenv
 Description: Runs zonal statistics across urban watershed boundaries using open-source tools to calculate total impervious surface areas. Translates integer raster IDs back to standard HUC watershed identifiers using zone_id_mapping.csv. Outputs final summary tables into the outputs/ folder.
 
 
+Step 3: Create Coastal Impact Raster
+
+Environement: R
+
+Description: This part of the model is done in R. The markdown walks through each step in detail, calling R scripts to load custom built functions that execute each step. Outputs the final coastal impact raster into the versioned folder on Dropbox.
+
+
 Notes: 
 
 - To run script 1, you must be working from your own C Drive and have the Urban_Scratch downloaded onto your local machine. In the future we hope to have script one independent of ArcPro to avoid this barrier. 

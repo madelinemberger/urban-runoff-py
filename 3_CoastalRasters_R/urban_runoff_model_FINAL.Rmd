@@ -5,7 +5,7 @@ date: "2026-02-22"
 ---
 # Summary
 
-NOTE: THIS WAS COPIED TO THE NEW STANDALONE URBAN REPO BY MADDIE 08-10-2026. THIS VERSION WILL NO LONGER BE UPDATED
+NOTE: THIS WAS COPIED TO THE NEW STANDALONE URBAN REPO BY MADDIE 08-10-2026. 
 
 This markdown walks through the  model used to quantify the impervious surfaces have on nearshorewaters. 
 
