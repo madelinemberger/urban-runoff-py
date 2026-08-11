@@ -28,12 +28,11 @@ The pipeline has been NOT been fully refactored to rely exclusively on open-sour
 │
 └── archive/                                    # Legacy and experimental scripts
 
----
+```
+
+
 
 ## Execution Flow
-
-```text
-
 
 Step 1: Raster Alignment & Zone Preparation
 Script: 1_Preprocess_2011_2021_NoMosaic_NoMask.py
