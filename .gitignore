@@ -15,3 +15,6 @@ venv/
 *.gdb/
 .DS_Store
 Thumbs.db
+
+# Big Data
+data/
